@@ -1,5 +1,4 @@
 # ClickGame
-English Project Description:
 
 **Project Title:** Interactive Java Swing Game - Quick Click Challenge
 
